@@ -1,0 +1,12 @@
+body {
+  background: yellow;
+}
+
+h2 {
+  color: orange;
+}
+
+.items h2 {
+  background: #457a4a;
+  color: #000;
+}
