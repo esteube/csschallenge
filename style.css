@@ -1,0 +1,10 @@
+body {
+  background: yellow;
+  color: black;
+}
+.walking, .bicycle {
+  background-color: green;
+}
+.uber, .audi, .prius {
+  color: orange;
+}
